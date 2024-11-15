@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div className="min-h-screen bg-gray-50 p-4 max-w-4xl mx-auto space-y-4">
+      <div className="min-h-screen bg-gray-50 p-4 mx-auto space-y-4">
         <section className="bg-white rounded-lg shadow-lg p-6">
           <button className="btn btn-primary">
             <svg
@@ -15,6 +15,7 @@ function App() {
             </svg>
             Conversar con un agente
           </button>
+          
         </section>
       </div>
     </>
